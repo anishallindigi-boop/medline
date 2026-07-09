@@ -116,8 +116,8 @@ const Footer = () => {
 
               <div>
                 <h5 className="font-medium text-white">Email</h5>
-                <Link href="mailto:info@medlinehospital.in" className="hover:text-[#007eff]">
-                  info@medlinehospital.in
+                <Link href="mailto:support.medlinehospital@gmail.com" className="hover:text-[#007eff]">
+                support.medlinehospital@gmail.com
                 </Link>
               </div>
 
