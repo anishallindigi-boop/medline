@@ -26,7 +26,7 @@ export default function ContactServiceSection() {
               Email Address
             </h2>
             <p className="text-gray-600">
-        support.medlinehospital.com
+        support@medlinehospital.com
             </p>
           </div>
 
